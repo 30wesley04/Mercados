@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mercados</string>
+    <string name="alertActivationGPSTitle">Permitir acceso a ubicación</string>
+    <string name="alertActivationGPSDescription">Si dessea obtener mas informacion sobre los cajeros, debe activar la ubicación.</string>
+    <string name="ignoreActivationGPSTitle">Ignorar</string>
+    <string name="acceptActivationGPSTitle">Activar</string>
+</resources>
